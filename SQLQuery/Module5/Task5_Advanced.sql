@@ -16,9 +16,9 @@ JOIN [Order Details] AS OD
 ON O.OrderID = OD.OrderID
 WHERE Emp.EmployeeID not in (1, 2, 3, 6, 9)
 GROUP BY Emp.EmployeeID,
-		 Emp.FirstName + ' ' + Emp.LastName,
+		 Emp.FirstName, Emp.LastName,
 		 Emp.HomePhone,
-		 Emp.Address + ', ' + Emp.City + ', ' + ISNULL(Emp.Region, 'NA') + ', ' + Emp.Country,
+		 Emp.Address, Emp.City, Emp.Region, Emp.Country,
 		 YEAR(O.OrderDate)
 ORDER BY Total_Gained_Money DESC;
 GO
