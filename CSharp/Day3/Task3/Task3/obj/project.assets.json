@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\menna\\repos\\dotnet_web_development-DEPI\\CSharp\\Day3\\Task3\\Task3\\Task3.csproj",
+      "projectUniqueName": "C:\\Users\\menna\\Desktop\\gp discussion\\Task3\\Task3\\Task3.csproj",
       "projectName": "Task3",
-      "projectPath": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\menna\\repos\\dotnet_web_development-DEPI\\CSharp\\Day3\\Task3\\Task3\\Task3.csproj",
+      "projectPath": "C:\\Users\\menna\\Desktop\\gp discussion\\Task3\\Task3\\Task3.csproj",
       "packagesPath": "C:\\Users\\menna\\.nuget\\packages\\",
-      "outputPath": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\menna\\repos\\dotnet_web_development-DEPI\\CSharp\\Day3\\Task3\\Task3\\obj\\",
+      "outputPath": "C:\\Users\\menna\\Desktop\\gp discussion\\Task3\\Task3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\menna\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,6 +1,6 @@
 ﻿namespace Task3;
 
-partial class Form1
+partial class Old
 {
     /// <summary>
     ///  Required designer variable.

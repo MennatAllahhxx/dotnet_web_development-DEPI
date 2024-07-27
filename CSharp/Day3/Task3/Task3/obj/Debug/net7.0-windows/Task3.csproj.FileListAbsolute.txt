@@ -16,3 +16,65 @@
 \\wsl.localhost\Ubuntu-20.04\home\menna\repos\dotnet_web_development-DEPI\CSharp\Day3\Task3\Task3\obj\Debug\net7.0-windows\Task3.genruntimeconfig.cache
 \\wsl.localhost\Ubuntu-20.04\home\menna\repos\dotnet_web_development-DEPI\CSharp\Day3\Task3\Task3\obj\Debug\net7.0-windows\ref\Task3.dll
 \\wsl.localhost\Ubuntu-20.04\home\menna\repos\dotnet_web_development-DEPI\CSharp\Day3\Task3\Task3\obj\Debug\net7.0-windows\Task3.Properties.Resources.resources
+C:\Users\menna\Desktop\Task3\Task3\obj\Debug\net7.0-windows\Task3.Login.resources
+C:\Users\menna\Desktop\Task3\Task3\obj\Debug\net7.0-windows\Task3.Properties.Resources.resources
+C:\Users\menna\Desktop\Task3\Task3\obj\Debug\net7.0-windows\Task3.Register.resources
+C:\Users\menna\Desktop\Task3\Task3\obj\Debug\net7.0-windows\Task3.csproj.GenerateResource.cache
+C:\Users\menna\Desktop\Task3\Task3\obj\Debug\net7.0-windows\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\menna\Desktop\Task3\Task3\obj\Debug\net7.0-windows\Task3.AssemblyInfoInputs.cache
+C:\Users\menna\Desktop\Task3\Task3\obj\Debug\net7.0-windows\Task3.AssemblyInfo.cs
+C:\Users\menna\Desktop\Task3\Task3\obj\Debug\net7.0-windows\Task3.csproj.CoreCompileInputs.cache
+C:\Users\menna\Desktop\Task3\Task3\obj\Debug\net7.0-windows\Task3.dll
+C:\Users\menna\Desktop\Task3\Task3\obj\Debug\net7.0-windows\refint\Task3.dll
+C:\Users\menna\Desktop\Task3\Task3\obj\Debug\net7.0-windows\Task3.pdb
+C:\Users\menna\Desktop\Task3\Task3\bin\Debug\net7.0-windows\Task3.exe
+C:\Users\menna\Desktop\Task3\Task3\bin\Debug\net7.0-windows\Task3.deps.json
+C:\Users\menna\Desktop\Task3\Task3\bin\Debug\net7.0-windows\Task3.runtimeconfig.json
+C:\Users\menna\Desktop\Task3\Task3\bin\Debug\net7.0-windows\Task3.dll
+C:\Users\menna\Desktop\Task3\Task3\bin\Debug\net7.0-windows\Task3.pdb
+C:\Users\menna\Desktop\Task3\Task3\obj\Debug\net7.0-windows\Task3.genruntimeconfig.cache
+C:\Users\menna\Desktop\Task3\Task3\obj\Debug\net7.0-windows\ref\Task3.dll
+C:\Users\menna\Desktop\Task3\Task3\obj\Debug\net7.0-windows\Task3.EmpoyeeProfile.resources
+C:\Users\menna\Desktop\Task3\Task3\obj\Debug\net7.0-windows\Task3.ManagerProfile.resources
+C:\Users\menna\Desktop\100 days challenge\Task3\Task3\bin\Debug\net7.0-windows\Task3.exe
+C:\Users\menna\Desktop\100 days challenge\Task3\Task3\bin\Debug\net7.0-windows\Task3.deps.json
+C:\Users\menna\Desktop\100 days challenge\Task3\Task3\bin\Debug\net7.0-windows\Task3.runtimeconfig.json
+C:\Users\menna\Desktop\100 days challenge\Task3\Task3\bin\Debug\net7.0-windows\Task3.dll
+C:\Users\menna\Desktop\100 days challenge\Task3\Task3\bin\Debug\net7.0-windows\Task3.pdb
+C:\Users\menna\Desktop\100 days challenge\Task3\Task3\obj\Debug\net7.0-windows\Task3.EmpoyeeProfile.resources
+C:\Users\menna\Desktop\100 days challenge\Task3\Task3\obj\Debug\net7.0-windows\Task3.Login.resources
+C:\Users\menna\Desktop\100 days challenge\Task3\Task3\obj\Debug\net7.0-windows\Task3.ManagerProfile.resources
+C:\Users\menna\Desktop\100 days challenge\Task3\Task3\obj\Debug\net7.0-windows\Task3.Properties.Resources.resources
+C:\Users\menna\Desktop\100 days challenge\Task3\Task3\obj\Debug\net7.0-windows\Task3.Register.resources
+C:\Users\menna\Desktop\100 days challenge\Task3\Task3\obj\Debug\net7.0-windows\Task3.csproj.GenerateResource.cache
+C:\Users\menna\Desktop\100 days challenge\Task3\Task3\obj\Debug\net7.0-windows\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\menna\Desktop\100 days challenge\Task3\Task3\obj\Debug\net7.0-windows\Task3.AssemblyInfoInputs.cache
+C:\Users\menna\Desktop\100 days challenge\Task3\Task3\obj\Debug\net7.0-windows\Task3.AssemblyInfo.cs
+C:\Users\menna\Desktop\100 days challenge\Task3\Task3\obj\Debug\net7.0-windows\Task3.csproj.CoreCompileInputs.cache
+C:\Users\menna\Desktop\100 days challenge\Task3\Task3\obj\Debug\net7.0-windows\Task3.dll
+C:\Users\menna\Desktop\100 days challenge\Task3\Task3\obj\Debug\net7.0-windows\refint\Task3.dll
+C:\Users\menna\Desktop\100 days challenge\Task3\Task3\obj\Debug\net7.0-windows\Task3.pdb
+C:\Users\menna\Desktop\100 days challenge\Task3\Task3\obj\Debug\net7.0-windows\Task3.genruntimeconfig.cache
+C:\Users\menna\Desktop\100 days challenge\Task3\Task3\obj\Debug\net7.0-windows\ref\Task3.dll
+C:\Users\menna\Desktop\100 days challenge\Task3\Task3\obj\Debug\net7.0-windows\Task3.Old.resources
+C:\Users\menna\Desktop\gp discussion\Task3\Task3\bin\Debug\net7.0-windows\Task3.exe
+C:\Users\menna\Desktop\gp discussion\Task3\Task3\bin\Debug\net7.0-windows\Task3.deps.json
+C:\Users\menna\Desktop\gp discussion\Task3\Task3\bin\Debug\net7.0-windows\Task3.runtimeconfig.json
+C:\Users\menna\Desktop\gp discussion\Task3\Task3\bin\Debug\net7.0-windows\Task3.dll
+C:\Users\menna\Desktop\gp discussion\Task3\Task3\bin\Debug\net7.0-windows\Task3.pdb
+C:\Users\menna\Desktop\gp discussion\Task3\Task3\obj\Debug\net7.0-windows\Task3.EmpoyeeProfile.resources
+C:\Users\menna\Desktop\gp discussion\Task3\Task3\obj\Debug\net7.0-windows\Task3.Login.resources
+C:\Users\menna\Desktop\gp discussion\Task3\Task3\obj\Debug\net7.0-windows\Task3.ManagerProfile.resources
+C:\Users\menna\Desktop\gp discussion\Task3\Task3\obj\Debug\net7.0-windows\Task3.Old.resources
+C:\Users\menna\Desktop\gp discussion\Task3\Task3\obj\Debug\net7.0-windows\Task3.Properties.Resources.resources
+C:\Users\menna\Desktop\gp discussion\Task3\Task3\obj\Debug\net7.0-windows\Task3.Register.resources
+C:\Users\menna\Desktop\gp discussion\Task3\Task3\obj\Debug\net7.0-windows\Task3.csproj.GenerateResource.cache
+C:\Users\menna\Desktop\gp discussion\Task3\Task3\obj\Debug\net7.0-windows\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\menna\Desktop\gp discussion\Task3\Task3\obj\Debug\net7.0-windows\Task3.AssemblyInfoInputs.cache
+C:\Users\menna\Desktop\gp discussion\Task3\Task3\obj\Debug\net7.0-windows\Task3.AssemblyInfo.cs
+C:\Users\menna\Desktop\gp discussion\Task3\Task3\obj\Debug\net7.0-windows\Task3.csproj.CoreCompileInputs.cache
+C:\Users\menna\Desktop\gp discussion\Task3\Task3\obj\Debug\net7.0-windows\Task3.dll
+C:\Users\menna\Desktop\gp discussion\Task3\Task3\obj\Debug\net7.0-windows\refint\Task3.dll
+C:\Users\menna\Desktop\gp discussion\Task3\Task3\obj\Debug\net7.0-windows\Task3.pdb
+C:\Users\menna\Desktop\gp discussion\Task3\Task3\obj\Debug\net7.0-windows\Task3.genruntimeconfig.cache
+C:\Users\menna\Desktop\gp discussion\Task3\Task3\obj\Debug\net7.0-windows\ref\Task3.dll

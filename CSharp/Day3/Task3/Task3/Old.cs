@@ -1,8 +1,8 @@
 namespace Task3;
 
-public partial class Form1 : Form
+public partial class Old : Form
 {
-    public Form1()
+    public Old()
     {
         InitializeComponent();
     }
