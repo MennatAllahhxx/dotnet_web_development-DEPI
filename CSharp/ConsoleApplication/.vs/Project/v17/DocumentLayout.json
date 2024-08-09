@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\menna\\Desktop\\Task3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C01C63C1-039A-41D3-8CF6-1DD2C619C934}|Task3\\Task3.csproj|c:\\users\\menna\\desktop\\task3\\task3\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01C63C1-039A-41D3-8CF6-1DD2C619C934}|Task3\\Task3.csproj|solutionrelative:task3\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01C63C1-039A-41D3-8CF6-1DD2C619C934}|Task3\\Task3.csproj|c:\\users\\menna\\desktop\\task3\\task3\\iworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01C63C1-039A-41D3-8CF6-1DD2C619C934}|Task3\\Task3.csproj|solutionrelative:task3\\iworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01C63C1-039A-41D3-8CF6-1DD2C619C934}|Task3\\Task3.csproj|C:\\Users\\menna\\Desktop\\Task3\\task3\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C01C63C1-039A-41D3-8CF6-1DD2C619C934}|Task3\\Task3.csproj|solutionrelative:task3\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01C63C1-039A-41D3-8CF6-1DD2C619C934}|Task3\\Task3.csproj|c:\\users\\menna\\desktop\\task3\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01C63C1-039A-41D3-8CF6-1DD2C619C934}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01C63C1-039A-41D3-8CF6-1DD2C619C934}|Task3\\Task3.csproj|c:\\users\\menna\\desktop\\task3\\task3\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01C63C1-039A-41D3-8CF6-1DD2C619C934}|Task3\\Task3.csproj|solutionrelative:task3\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01C63C1-039A-41D3-8CF6-1DD2C619C934}|Task3\\Task3.csproj|c:\\users\\menna\\desktop\\task3\\task3\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01C63C1-039A-41D3-8CF6-1DD2C619C934}|Task3\\Task3.csproj|solutionrelative:task3\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01C63C1-039A-41D3-8CF6-1DD2C619C934}|Task3\\Task3.csproj|c:\\users\\menna\\desktop\\task3\\task3\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01C63C1-039A-41D3-8CF6-1DD2C619C934}|Task3\\Task3.csproj|solutionrelative:task3\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01C63C1-039A-41D3-8CF6-1DD2C619C934}|Task3\\Task3.csproj|c:\\users\\menna\\desktop\\task3\\task3\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01C63C1-039A-41D3-8CF6-1DD2C619C934}|Task3\\Task3.csproj|solutionrelative:task3\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01C63C1-039A-41D3-8CF6-1DD2C619C934}|Task3\\Task3.csproj|C:\\Users\\menna\\Desktop\\Task3\\task3\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C01C63C1-039A-41D3-8CF6-1DD2C619C934}|Task3\\Task3.csproj|solutionrelative:task3\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\menna\\Desktop\\Task3\\Task3\\Register.cs",
+              "RelativeDocumentMoniker": "Task3\\Register.cs",
+              "ToolTip": "C:\\Users\\menna\\Desktop\\Task3\\Task3\\Register.cs [Design]",
+              "RelativeToolTip": "Task3\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T16:39:49.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\menna\\Desktop\\Task3\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\menna\\Desktop\\Task3\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwDgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T16:30:15.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\menna\\Desktop\\Task3\\Task3\\Manager.cs",
+              "RelativeDocumentMoniker": "Task3\\Manager.cs",
+              "ToolTip": "C:\\Users\\menna\\Desktop\\Task3\\Task3\\Manager.cs",
+              "RelativeToolTip": "Task3\\Manager.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T16:29:10.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\menna\\Desktop\\Task3\\Task3\\Employee.cs",
+              "RelativeDocumentMoniker": "Task3\\Employee.cs",
+              "ToolTip": "C:\\Users\\menna\\Desktop\\Task3\\Task3\\Employee.cs",
+              "RelativeToolTip": "Task3\\Employee.cs",
+              "ViewState": "AQIAABUAAAAgMzMzMzMvwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T16:28:41.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\menna\\Desktop\\Task3\\Task3\\Users.cs",
+              "RelativeDocumentMoniker": "Task3\\Users.cs",
+              "ToolTip": "C:\\Users\\menna\\Desktop\\Task3\\Task3\\Users.cs",
+              "RelativeToolTip": "Task3\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T16:28:28.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IWorker.cs",
+              "DocumentMoniker": "C:\\Users\\menna\\Desktop\\Task3\\Task3\\IWorker.cs",
+              "RelativeDocumentMoniker": "Task3\\IWorker.cs",
+              "ToolTip": "C:\\Users\\menna\\Desktop\\Task3\\Task3\\IWorker.cs",
+              "RelativeToolTip": "Task3\\IWorker.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T16:05:05.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\menna\\Desktop\\Task3\\Task3\\Person.cs",
+              "RelativeDocumentMoniker": "Task3\\Person.cs",
+              "ToolTip": "C:\\Users\\menna\\Desktop\\Task3\\Task3\\Person.cs",
+              "RelativeToolTip": "Task3\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T16:04:56.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\menna\\Desktop\\Task3\\Task3\\Login.cs",
+              "RelativeDocumentMoniker": "Task3\\Login.cs",
+              "ToolTip": "C:\\Users\\menna\\Desktop\\Task3\\Task3\\Login.cs [Design]",
+              "RelativeToolTip": "Task3\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:57:10.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\menna\\Desktop\\Task3\\Task3\\Login.cs",
+              "RelativeDocumentMoniker": "Task3\\Login.cs",
+              "ToolTip": "C:\\Users\\menna\\Desktop\\Task3\\Task3\\Login.cs",
+              "RelativeToolTip": "Task3\\Login.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAwwDUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:55:07.96Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
